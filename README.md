@@ -268,11 +268,11 @@ If you're interested in learning more about Sengunthar Mahal A/C in Gudiyatham, 
 </html>
 ```
 # OUTPU
-![Screenshot 2025-12-06 094226](<img width="1920" height="1140" alt="imgpmap1" src="https://github.com/user-attachments/assets/d4e8af52-7939-4c84-a7b9-ee469491f9ee" />)
-![Screenshot 2025-12-06 094217](<img width="1920" height="1140" alt="imagmap2" src="https://github.com/user-attachments/assets/b3dd0720-bbb7-4e8d-994b-05a8f5053a78" />)
-![Screenshot 2025-12-06 094155](<img width="1920" height="1140" alt="imgmap3" src="https://github.com/user-attachments/assets/c36fb6b5-0c5a-42da-8593-ff92ef454daf" />)
-![Screenshot 2025-12-06 094148](<img width="1920" height="1140" alt="imgmap4" src="https://github.com/user-attachments/assets/d44062ef-5778-4971-9a97-204311d3ae25" />)
-![Screenshot 2025-12-06 094143](<img width="1920" height="1140" alt="imgmap5" src="https://github.com/user-attachments/assets/1b731fbd-f04f-4aad-b3cf-932c62fdb132" />)
+![Screenshot 2025-12-16 094226](<img width="1920" height="1140" alt="imgpmap1" src="https://github.com/user-attachments/assets/d4e8af52-7939-4c84-a7b9-ee469491f9ee" />)
+![Screenshot 2025-12-16 094217](<img width="1920" height="1140" alt="imagmap2" src="https://github.com/user-attachments/assets/b3dd0720-bbb7-4e8d-994b-05a8f5053a78" />)
+![Screenshot 2025-12-16 094155](<img width="1920" height="1140" alt="imgmap3" src="https://github.com/user-attachments/assets/c36fb6b5-0c5a-42da-8593-ff92ef454daf" />)
+![Screenshot 2025-12-16 094148](<img width="1920" height="1140" alt="imgmap4" src="https://github.com/user-attachments/assets/d44062ef-5778-4971-9a97-204311d3ae25" />)
+![Screenshot 2025-12-16 094143](<img width="1920" height="1140" alt="imgmap5" src="https://github.com/user-attachments/assets/1b731fbd-f04f-4aad-b3cf-932c62fdb132" />)
 
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
